@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "WOW ! Je suis vraiment le Cimetière le plus chanceux de l'univers! 🎉💝💖💝💓",
+        title: "WOW ! Je suis vraiment le Cimetière  le plus chanceux de l'univers! 🎉💝💖💝💓",
         message: "Bravo, tu m'as enfin attrapé.🙃  Maintenant j'ai hate de te voir en vrai",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
